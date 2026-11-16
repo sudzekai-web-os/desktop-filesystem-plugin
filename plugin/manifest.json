@@ -1,0 +1,7 @@
+{
+  "id": "linctrl.filesystem",
+  "name": "Файловая система",
+  "summary": "Каталоги, файлы и права доступа на выбранном сервере.",
+  "apiVersion": 1,
+  "entry": "Main.qml"
+}
